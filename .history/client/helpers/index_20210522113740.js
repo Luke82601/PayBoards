@@ -24,4 +24,4 @@ module.exports = {
   isSameColumn,
   isSameDiagonal,
   isPathClean
-};
+}

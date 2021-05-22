@@ -1,8 +1,8 @@
-@font-face {
+/* @font-face {
   font-family: "Open Sans Regular";
   src: url("...");
   font-display: swap;
-}
+} */
 
 body {
   background-image: url('images/background.jpeg');
