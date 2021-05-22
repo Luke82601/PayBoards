@@ -6,7 +6,7 @@ const Save = ({ save, saveView, exit }) => {
   }
   return (
     <div className="saveBackground">
-      <div className="head"><h2>Checkers</h2></div>
+      <div className="head"><h2>PayBoards</h2></div>
       <div className="formBox">
         <h2>Save Game</h2>
         <label htmlFor="gameName">

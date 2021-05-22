@@ -18,7 +18,7 @@ const Settings = ({ settings, modal, exit, saveGame, changeGame }) => {
   }
   return (
     <div className="settingsBackground">
-      <div className="head"><h2>Checkers</h2></div>
+      <div className="head"><h2>PayBoards</h2></div>
       <div className="formBox">
         <h2>Settings</h2>
         {buttons(modal, saveGame, changeGame, exit)}
